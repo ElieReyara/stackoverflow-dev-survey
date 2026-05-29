@@ -13,7 +13,7 @@ en combinant nettoyage de données, agrégations Pandas et visualisations Matplo
 
 - **Python** : Pandas · NumPy · Matplotlib
 - **Environnement** : Jupyter Notebook / VS Code
-- **Dataset** : [Stack Overflow Developer Survey 2023](https://survey.stackoverflow.co/2023)
+- **Dataset** : [https://www.kaggle.com/datasets/stackoverflow/stack-overflow-2023-developers-survey?resource=download)
 
 ---
 
@@ -59,5 +59,5 @@ cd stackoverflow-dev-survey
 jupyter notebook stackoverflow_analysis.ipynb
 ```
 
-Dataset à télécharger séparément : https://survey.stackoverflow.co/2023
+Dataset à télécharger séparément : https://www.kaggle.com/datasets/stackoverflow/stack-overflow-2023-developers-survey?resource=download
 → Placer `survey_results_public.csv` dans le dossier `archive/`
