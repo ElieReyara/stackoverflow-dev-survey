@@ -36,8 +36,7 @@ stackoverflow-dev-survey/
 │
 ├── stackoverflow_analysis.ipynb   # Notebook principal — analyses + visualisations
 ├── README.md                      # Ce fichier
-└── archive/
-    └── survey_results_public.csv  # Dataset source (non versionné — voir lien ci-dessus)
+└── survey_results_public.csv  # Dataset source (non versionné — voir lien ci-dessus)
 ```
 
 ---
